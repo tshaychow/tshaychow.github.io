@@ -15,7 +15,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 100vh;
+
 
 }
 
@@ -27,7 +27,7 @@ body, html {
 .outro{
     font-size: 20px;
     margin:50px;
-      color:#fff;
+    color:#fff;
 }
 
 #greeting{
@@ -42,24 +42,19 @@ body, html {
 
 .bgimg-2 {
   background-image: url("../img/background2.jpg");
-  height:auto;
 }
 
 .bgimg-3 {
   background-image: url("../img/background3.jpg");
-  min-height: 100vh;
-  height:auto;
 }
 .bgimg-4 {
   background-image: url("../img/background4.jpg");
-  min-height: 100vh;
   height:auto;
 }
 
 .bgimg-5 {
   background-image: url("../img/background5.jpg");
-  min-height: 100vh;
-  height:auto;
+
 }
 .caption {
   position: absolute;
